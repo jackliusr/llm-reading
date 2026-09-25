@@ -6,6 +6,7 @@
 |  Survey |   Year |
 | ---     | ----    |
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|22 Sep 2026|
+|[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)|31 Aug 2025 |
 |[AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems](https://www.preprints.org/manuscript/202608.2108)|28 Aug 2026|
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |14 Jul 2026|
 | [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/html/2605.06716v1) | 7 May 2026 |
