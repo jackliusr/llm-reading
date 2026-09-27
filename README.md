@@ -3,6 +3,10 @@
 
 By the end of 2025, Claude Code could autonomously execute complex, multi-step engineering workflows directly in the terminal. Researches after that should have more correct view on agents. Pay more attentions on research after that.
 
+agent: llm + harness
+
+harness engineering: self-improvement, self-evolving,  domain specific for a target model
+
 
 ### Survey files
 
@@ -16,6 +20,7 @@ By the end of 2025, Claude Code could autonomously execute complex, multi-step e
 |[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|20 Aug 2026|
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |14 Jul 2026|
 |[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285)|14 Jul 2026|
+|[From Question Answering to Task Completion: A Survey on Agent System and Harness Design](https://arxiv.org/html/2606.20683v1)|14 Jun 2026|
 |[Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](https://arxiv.org/abs/2605.30621)|28 May 2026|
 |[A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358)|26 May 2026|
 |[Code as Agent Harness◊Toward Executable, Verifiable, and Stateful Agent Systems ◊](https://arxiv.org/html/2605.18747v1)|18 May 2026|
