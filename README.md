@@ -1,17 +1,27 @@
 ## llm reading
 
 
+By the end of 2025, Claude Code could autonomously execute complex, multi-step engineering workflows directly in the terminal. Researches after that should have more correct view on agents. Pay more attentions on research after that.
+
+
 ### Survey files
 
 |  Survey |   Year |
 | ---     | ----    |
+|[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|24 Sep 2026|
+|[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|24 Sep 2026|
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|22 Sep 2026|
-|[A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358)||
 |[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)|31 Aug 2025 |
 |[AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems](https://www.preprints.org/manuscript/202608.2108)|28 Aug 2026|
+|[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|20 Aug 2026|
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |14 Jul 2026|
+|[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285)|14 Jul 2026|
+|[Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](https://arxiv.org/abs/2605.30621)|28 May 2026|
+|[A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358)|26 May 2026|
+|[Code as Agent Harness◊Toward Executable, Verifiable, and Stateful Agent Systems ◊](https://arxiv.org/html/2605.18747v1)|18 May 2026|
 | [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/html/2605.06716v1) | 7 May 2026 |
 |[A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) |23 Apr 2026 |
+|[Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v3)|29 Mar 2026|
 |[A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://arxiv.org/html/2507.21046v4)|16 Jan 2026|
 |[Where LLM Agents Fail and How They can Learn From Failures](https://arxiv.org/html/2509.25370v1) |29 Sep 2025|
 |[A Survey on AgentOps: Categorization, Challenges, and Future Directions](https://arxiv.org/html/2508.02121v1)|04 Aug 2025|
