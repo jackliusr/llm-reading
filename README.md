@@ -33,3 +33,4 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[Towards Agentic RAG with Deep Reasoning:A Survey of RAG-Reasoning Systems in LLMs](https://arxiv.org/pdf/2507.09477) |16 Jul 2025|
 | [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/html/2312.10997v5) |27 Mar 024 |
 | [Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents](https://arxiv.org/abs/2405.10467) | 6 Nov 2024 |
+|[Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/html/2403.08319v2)|22 Jun 2024|
