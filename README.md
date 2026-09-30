@@ -13,11 +13,13 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |  Survey |   Year |
 | ---     | ----    |
 |[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|24 Sep 2026|
+|[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/html/2609.24972v1)|21 Sep 2026|
 |[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|24 Sep 2026|
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|22 Sep 2026|
 |[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)|31 Aug 2025 |
 |[AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems](https://www.preprints.org/manuscript/202608.2108)|28 Aug 2026|
 |[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|20 Aug 2026|
+|[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)|23 Jul 2026|
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |14 Jul 2026|
 |[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285)|14 Jul 2026|
 |[From Question Answering to Task Completion: A Survey on Agent System and Harness Design](https://arxiv.org/html/2606.20683v1)|14 Jun 2026|
