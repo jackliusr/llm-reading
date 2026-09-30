@@ -16,7 +16,6 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/html/2609.24972v1)|2026-09-21|
 |[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|2026-09-24|
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|2026-09-22|
-|[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)|2025-08-31|
 |[AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems](https://www.preprints.org/manuscript/202608.2108)|2026-08-28|
 |[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|2026-08-20|
 |[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)|2026-07-23|
@@ -27,10 +26,11 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358)|2026-05-26|
 |[Code as Agent Harness◊Toward Executable, Verifiable, and Stateful Agent Systems ◊](https://arxiv.org/html/2605.18747v1)|2026-05-18|
 | [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/html/2605.06716v1) | 2026-05-07 |
-|[A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) |2026-04-23|
+|[A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) |2026-04-23 |
 |[Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v3)|2026-03-29|
 |[A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://arxiv.org/html/2507.21046v4)|2026-01-16|
 |[Where LLM Agents Fail and How They can Learn From Failures](https://arxiv.org/html/2509.25370v1) |2025-09-29|
+|[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)|2025-08-31|
 |[A Survey on AgentOps: Categorization, Challenges, and Future Directions](https://arxiv.org/html/2508.02121v1)|2025-08-04|
 |[Towards Agentic RAG with Deep Reasoning:A Survey of RAG-Reasoning Systems in LLMs](https://arxiv.org/pdf/2507.09477) |2025-07-16|
 | [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/html/2312.10997v5) |2024-03-27|
