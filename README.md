@@ -13,9 +13,11 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |  Survey |   Date |
 | ---     | ----    |
 |[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|2026-09-24|
-|[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/html/2609.24972v1)|2026-09-21|
 |[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|2026-09-24|
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|2026-09-22|
+|[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/html/2609.24972v1)|2026-09-21|
+|[Self Improvement via Fast Tree-search](https://arxiv.org/abs/2609.19526)|17 Sep 2026|
+|[Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](https://arxiv.org/abs/2607.07663)|6 Sep 2026|
 |[AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems](https://www.preprints.org/manuscript/202608.2108)|2026-08-28|
 |[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|2026-08-20|
 |[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)|2026-07-23|
@@ -28,6 +30,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 | [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/html/2605.06716v1) | 2026-05-07 |
 |[A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) |2026-04-23 |
 |[Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v3)|2026-03-29|
+|[Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context](https://arxiv.org/html/2603.15653v1)|07 Mar 2026|
 |[A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://arxiv.org/html/2507.21046v4)|2026-01-16|
 |[Where LLM Agents Fail and How They can Learn From Failures](https://arxiv.org/html/2509.25370v1) |2025-09-29|
 |[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)|2025-08-31|
