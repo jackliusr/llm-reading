@@ -1,0 +1,7 @@
+Recursive Models for Long-Horizon Reasoning (by Yang et al., March 2026) and Recursive Language Models (RLMs) (by Zhang et al., December 2025) both target the fundamental context limitations of large language models via recursion, but they approach the problem from different theoretical and practical angles
+
+
+Core Comparison
+- Definition and Scope: Recursive Models for Long-Horizon Reasoning provides a theoretical and formal framework proving that any computable problem can be recursively decomposed so that subtasks require exponentially smaller active contexts than standard single-sequence models. Recursive Language Models (RLMs) is a specific operational inference paradigm treating arbitrarily long prompts as external REPL (Read–Eval–Print Loop) environments where an LLM programmatically examines and sub-queries snippets of data.
+- Execution Mechanism: Recursive models abstractly invoke themselves in isolated contexts as a minimal architectural realization for long-horizon or combinatorial search tasks like Boolean satisfiability. RLMs rely explicitly on programmatic delegation (such as utilizing Python scripts and sub-LLMs over extended context inputs up to two orders of magnitude beyond standard windows).
+- Theoretical vs. Empirical Focus: The recursive models framework emphasizes proofs of optimal power within generalized agentic systems. RLMs focus heavily on practical inference-time scaling, outperforming compaction and coding scaffolds on dense multi-hop tasks without incurring information-loss from summarization
