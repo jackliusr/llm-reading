@@ -1,0 +1,3 @@
+- [AWS Solution Architect Agent]()
+- [AI Architecture Toolkit](https://github.com/Future-CX/AI-Architecture-Toolkit)
+- [Entelim](https://github.com/Archiet-Ltd/archie-ea)
