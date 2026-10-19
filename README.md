@@ -12,6 +12,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 
 |  Survey |   Date |
 | ---     | ----    |
+|[Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://arxiv.org/abs/2610.02826)|2 Oct 2026|
 |[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|2026-09-24|
 |[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|2026-09-24|
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|2026-09-22|
@@ -30,6 +31,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[Code as Agent Harness◊Toward Executable, Verifiable, and Stateful Agent Systems ◊](https://arxiv.org/html/2605.18747v1)|2026-05-18|
 | [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/html/2605.06716v1) | 2026-05-07 |
 |[A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) |2026-04-23 |
+|[Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052)|30 Mar 2026|
 |[Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v3)|2026-03-29|
 |[Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context](https://arxiv.org/html/2603.15653v1)|07 Mar 2026|
 |[A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://arxiv.org/html/2507.21046v4)|2026-01-16|
