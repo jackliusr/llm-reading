@@ -12,6 +12,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 
 |  Survey |   Date |
 | ---     | ----    |
+|[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)|10 Oct 2026|
 |[Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://arxiv.org/abs/2610.02826)|2 Oct 2026|
 |[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|2026-09-24|
 |[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|2026-09-24|
@@ -25,6 +26,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |2026-07-14|
 |[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285)|2026-07-14|
 |[Recursive Models for Long-Horizon Reasoning](https://arxiv.org/html/2603.02112v2)|02 Jul 2026|
+|[Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents](https://arxiv.org/abs/2606.22528)|27 Jun 2026|
 |[From Question Answering to Task Completion: A Survey on Agent System and Harness Design](https://arxiv.org/html/2606.20683v1)|2026-06-14|
 |[Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](https://arxiv.org/abs/2605.30621)|2026-05-28|
 |[A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358)|2026-05-26|
