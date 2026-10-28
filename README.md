@@ -12,6 +12,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 
 |  Survey |   Date |
 | ---     | ----    |
+|[EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://arxiv.org/html/2609.05903v2)|14 Oct 2026|
 |[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)|10 Oct 2026|
 |[Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://arxiv.org/abs/2610.02826)|2 Oct 2026|
 |[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|2026-09-24|
@@ -22,6 +23,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](https://arxiv.org/abs/2607.07663)|6 Sep 2026|
 |[AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems](https://www.preprints.org/manuscript/202608.2108)|2026-08-28|
 |[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|2026-08-20|
+|[A Domain-Specific Harness for End-to-End Automation of Optimization Research](https://arxiv.org/abs/2608.07407)|7 Aug 2026|
 |[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)|2026-07-23|
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |2026-07-14|
 |[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285)|2026-07-14|
