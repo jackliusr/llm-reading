@@ -38,6 +38,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052)|30 Mar 2026|
 |[Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v3)|2026-03-29|
 |[Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context](https://arxiv.org/html/2603.15653v1)|07 Mar 2026|
+|[The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](https://arxiv.org/html/2601.13671v1)|20 Jan 2026|
 |[A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://arxiv.org/html/2507.21046v4)|2026-01-16|
 |[Agentic Large Language Models, a survey](https://arxiv.org/html/2503.23037v3)|22 Nov 2025|
 |[DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446)|14 Oct 2025|
