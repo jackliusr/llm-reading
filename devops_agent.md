@@ -13,4 +13,4 @@ AWS DevOps Agent: an AI-powered, always-available agent that spans release manag
 
 |Paper| Time|
 | --  | -- |
-|[DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle](https://arxiv.org/abs/2601.20882)|27 Jan 2026|
+|[DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle](https://arxiv.org/abs/2601.20882)|2026-01-27|

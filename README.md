@@ -12,38 +12,38 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 
 |  Survey |   Date |
 | ---     | ----    |
-|[EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://arxiv.org/html/2609.05903v2)|14 Oct 2026|
-|[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)|10 Oct 2026|
+|[EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://arxiv.org/html/2609.05903v2)|2026-10-14|
+|[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)|2026-10-10|
 |[Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://arxiv.org/abs/2610.02826)|2 Oct 2026|
 |[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|2026-09-24|
 |[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|2026-09-24|
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|2026-09-22|
 |[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/html/2609.24972v1)|2026-09-21|
-|[Self Improvement via Fast Tree-search](https://arxiv.org/abs/2609.19526)|17 Sep 2026|
+|[Self Improvement via Fast Tree-search](https://arxiv.org/abs/2609.19526)|2026-09-17|
 |[Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](https://arxiv.org/abs/2607.07663)|6 Sep 2026|
 |[AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems](https://www.preprints.org/manuscript/202608.2108)|2026-08-28|
 |[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|2026-08-20|
 |[A Domain-Specific Harness for End-to-End Automation of Optimization Research](https://arxiv.org/abs/2608.07407)|7 Aug 2026|
 |[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)|2026-07-23|
-|[Effective Strategies for Asynchronous Software Engineering Agents](https://arxiv.org/html/2603.21489v2)|08 Jul 2026|
+|[Effective Strategies for Asynchronous Software Engineering Agents](https://arxiv.org/html/2603.21489v2)|2026-07-08|
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |2026-07-14|
 |[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285)|2026-07-14|
-|[Recursive Models for Long-Horizon Reasoning](https://arxiv.org/html/2603.02112v2)|02 Jul 2026|
-|[Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents](https://arxiv.org/abs/2606.22528)|27 Jun 2026|
+|[Recursive Models for Long-Horizon Reasoning](https://arxiv.org/html/2603.02112v2)|2026-07-02|
+|[Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents](https://arxiv.org/abs/2606.22528)|2026-06-27|
 |[From Question Answering to Task Completion: A Survey on Agent System and Harness Design](https://arxiv.org/html/2606.20683v1)|2026-06-14|
-|[Multi-Agent Computer Use](https://arxiv.org/html/2606.01533v1)|01 Jun 2026|
+|[Multi-Agent Computer Use](https://arxiv.org/html/2606.01533v1)|2026-06-01|
 |[Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](https://arxiv.org/abs/2605.30621)|2026-05-28|
 |[A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358)|2026-05-26|
 |[Code as Agent Harness◊Toward Executable, Verifiable, and Stateful Agent Systems ◊](https://arxiv.org/html/2605.18747v1)|2026-05-18|
 | [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/html/2605.06716v1) | 2026-05-07 |
 |[A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) |2026-04-23 |
-|[Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052)|30 Mar 2026|
+|[Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052)|2026-03-30|
 |[Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v3)|2026-03-29|
-|[Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context](https://arxiv.org/html/2603.15653v1)|07 Mar 2026|
-|[The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](https://arxiv.org/html/2601.13671v1)|20 Jan 2026|
+|[Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context](https://arxiv.org/html/2603.15653v1)|2026-03-07|
+|[The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](https://arxiv.org/html/2601.13671v1)|2026-01-20|
 |[A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://arxiv.org/html/2507.21046v4)|2026-01-16|
-|[Agentic Large Language Models, a survey](https://arxiv.org/html/2503.23037v3)|22 Nov 2025|
-|[DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446)|14 Oct 2025|
+|[Agentic Large Language Models, a survey](https://arxiv.org/html/2503.23037v3)|2025-11-22|
+|[DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446)|2025-10-14|
 |[Where LLM Agents Fail and How They can Learn From Failures](https://arxiv.org/html/2509.25370v1) |2025-09-29|
 |[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)|2025-08-31|
 |[A Survey on AgentOps: Categorization, Challenges, and Future Directions](https://arxiv.org/html/2508.02121v1)|2025-08-04|

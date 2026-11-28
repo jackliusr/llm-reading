@@ -18,5 +18,5 @@
 
 |  Survey |   Date |
 | ---     | ----    |
-|[Data Agents: Levels, State of the Art, and Open Problems](https://arxiv.org/html/2602.04261v1)|04 Feb 2026|
-|[Data Interpreter: An LLM Agent For Data Science](https://arxiv.org/abs/2402.18679)|15 Oct 2024|
+|[Data Agents: Levels, State of the Art, and Open Problems](https://arxiv.org/html/2602.04261v1)|2026-02-04|
+|[Data Interpreter: An LLM Agent For Data Science](https://arxiv.org/abs/2402.18679)|2024-10-15|
