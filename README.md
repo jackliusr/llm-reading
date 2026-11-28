@@ -12,9 +12,11 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 
 |  Survey |   Date |
 | ---     | ----    |
+|[One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](https://arxiv.org/html/2608.12253v3)|17 Nov 2026|
 |[EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://arxiv.org/html/2609.05903v2)|2026-10-14|
 |[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)|2026-10-10|
-|[Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://arxiv.org/abs/2610.02826)|2 Oct 2026|
+|[[GitSwarm: Decentralized Compounding Inference](https://arxiv.org/html/2610.04862v1)]|04 Oct 2026|
+|[Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://arxiv.org/abs/2610.02826)|02 Oct 2026|
 |[Self-Evolving Coding Agents](https://arxiv.org/html/2608.03392v4)|2026-09-24|
 |[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/html/2609.29773v1)|2026-09-24|
 |[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/html/2609.11873v3)|2026-09-22|
@@ -40,6 +42,7 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052)|2026-03-30|
 |[Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v3)|2026-03-29|
 |[Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context](https://arxiv.org/html/2603.15653v1)|2026-03-07|
+|[LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science](https://arxiv.org/html/2510.01285v2)|31 Jan 2026|
 |[The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](https://arxiv.org/html/2601.13671v1)|2026-01-20|
 |[A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://arxiv.org/html/2507.21046v4)|2026-01-16|
 |[Agentic Large Language Models, a survey](https://arxiv.org/html/2503.23037v3)|2025-11-22|
