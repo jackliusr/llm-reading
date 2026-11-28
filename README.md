@@ -25,11 +25,13 @@ harness engineering: self-improvement, self-evolving,  domain specific for a tar
 |[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)|2026-08-20|
 |[A Domain-Specific Harness for End-to-End Automation of Optimization Research](https://arxiv.org/abs/2608.07407)|7 Aug 2026|
 |[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)|2026-07-23|
+|[Effective Strategies for Asynchronous Software Engineering Agents](https://arxiv.org/html/2603.21489v2)|08 Jul 2026|
 |[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) |2026-07-14|
 |[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285)|2026-07-14|
 |[Recursive Models for Long-Horizon Reasoning](https://arxiv.org/html/2603.02112v2)|02 Jul 2026|
 |[Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents](https://arxiv.org/abs/2606.22528)|27 Jun 2026|
 |[From Question Answering to Task Completion: A Survey on Agent System and Harness Design](https://arxiv.org/html/2606.20683v1)|2026-06-14|
+|[Multi-Agent Computer Use](https://arxiv.org/html/2606.01533v1)|01 Jun 2026|
 |[Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](https://arxiv.org/abs/2605.30621)|2026-05-28|
 |[A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358)|2026-05-26|
 |[Code as Agent Harness◊Toward Executable, Verifiable, and Stateful Agent Systems ◊](https://arxiv.org/html/2605.18747v1)|2026-05-18|
